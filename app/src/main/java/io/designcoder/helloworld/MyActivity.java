@@ -14,6 +14,7 @@ public class MyActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //this a laout file i'm linking
         setContentView(R.layout.activity_my);
 
         // Example of a call to a native method
