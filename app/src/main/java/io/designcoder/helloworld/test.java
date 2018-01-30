@@ -5,5 +5,5 @@ package io.designcoder.helloworld;
  */
 
 public class test {
-
+ public string name;
 }
